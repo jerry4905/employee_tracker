@@ -2,6 +2,7 @@
  
  <img width="1440" alt="employee_tracker screen shot" src="https://user-images.githubusercontent.com/81401217/125211797-ccc17b00-e25d-11eb-90ea-1e918722476d.png">
  
+ https://drive.google.com/file/d/1kbfNokqvJVbwIM0Dj43qcUa9F3FiPO4L/view
  
   ## Description 
  This is the 12th challenege in the UCLA coding bootcamp. It is a CLI based Content Management System that allows user to manage their employees based on role and department within the company. It allows user to create, read, update and delete employees, roles and departments. 
